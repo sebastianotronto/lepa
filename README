@@ -1,0 +1,16 @@
+This simple program, which I wrote mainly as an excuse to try out the Hare
+programming language [1], reads a list of letter pairs from a file, then
+prompts the user for commands. The interface is similar to that of ed(1).
+The main command 'r' starts a random training session, which consists of 
+the program printing a random letter pair, waiting for the use to type
+enter, print the text associated with the letter pair, waiting again and
+repeating until EOF (Ctrl+D) is encountered.
+
+To try it out run:
+
+hare run lepa.ha example.txt
+
+Then type 'r' followed by Enter to start the random training session.
+Other commands include '?' (help) and 'q' (quit).
+
+[1] https://harelang.org

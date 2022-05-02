@@ -1,0 +1,9 @@
+# This line is a comment. Comments and white lines are ignored.
+
+AB	Abacus
+BB	BB King
+CG	Cigarette
+HR	Hare
+BD	Beedi (TODO: change this, too similar to CG)
+
+# And so on...
