@@ -11,6 +11,6 @@ To try it out run:
 hare run lepa.ha example.txt
 
 Then type 'r' followed by Enter to start the random training session.
-Other commands include '?' (help) and 'q' (quit).
+Other commands include '?' (help) and 'q' (quit). For more, see the code.
 
 [1] https://harelang.org
